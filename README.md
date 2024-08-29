@@ -25,17 +25,6 @@ While the assignment only called for the creation of loops and basic array opera
 
 By going beyond the basic requirements of the assignment, I was able to explore more advanced topics in assembly language, such as string manipulation and I/O operations. This experience has enhanced my understanding of low-level programming and demonstrated my ability to take on additional challenges beyond the classroom.
 
-## How to Run the Code
+## License and Credits
 
-1. **C Program**: Compile and run `stencil.c` using a C compiler:
-   ```bash
-   gcc stencil.c -o stencil
-   ./stencil
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Credits
-
-This project was developed as part of an assignment for the Introduction to Computer Systems course at UNC Charlotte. Special thanks to the course instructors for providing the foundational materials and guidance.
+This project is open-source and available under the [MIT License](LICENSE) and was developed as part of an assignment for the Introduction to Computer Systems course at UNC Charlotte. Special thanks to the course instructors for providing the foundational materials and guidance.
